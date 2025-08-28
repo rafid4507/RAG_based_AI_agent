@@ -2,7 +2,7 @@
 .env
 
 # folder
-/venv
+venv/
 
 # Jupyter notebooks
 *.ipynb_checkpoints/
