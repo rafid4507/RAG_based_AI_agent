@@ -1,7 +1,8 @@
 # files
+# Ignore environment variables
 .env
 
-# folder
+# folders
 venv/
 
 # Jupyter notebooks
