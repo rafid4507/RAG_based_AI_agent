@@ -1,8 +1,9 @@
 # files
+# Ignore environment variables
 .env
 
-# folder
-/venv
+# folders
+venv/
 
 # Jupyter notebooks
 *.ipynb_checkpoints/
