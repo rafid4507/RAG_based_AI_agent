@@ -11,4 +11,4 @@ pymupdf
 wikipedia
 lxml
 langchain_huggingface
-chromadb
+langchain-groq
